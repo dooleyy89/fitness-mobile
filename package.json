@@ -2,7 +2,7 @@
   "name": "fitness-app",
   "license": "0BSD",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "frontend/main.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
